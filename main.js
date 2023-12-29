@@ -15,7 +15,7 @@ button.addEventListener('click', () => {
 // Função assíncrona para obter dados de um arquivo JSON usando Fetch
 async function obterDados() {
     try {
-        const resposta = await fetch('./teste.json');
+        const resposta = await fetch('./origens.json');
         if (!resposta.ok) {
             throw new Error(`Erro ao carregar o JSON. Status: ${resposta.status}`);
         }
@@ -54,8 +54,8 @@ let lista = [];
 // Aguarde o carregamento completo da página antes de executar o código
 window.onload = async () => {
     await obterDados();
-    const origens = obterValoresUnicos('Origem');
-    const destinos = obterValoresUnicos('Destino');
+    const origens = obterValoresUnicos('cidade');
+    const destinos = obterValoresUnicos('cidade');
     montaSelect(origens, origensBox);
     montaSelect(destinos, destinoBox);
 
