@@ -1,0 +1,3404 @@
+[
+    {
+        "id": "21708",
+        "cidade": "ACARAI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21710",
+        "cidade": "AGUA POTAVEL - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21711",
+        "cidade": "ALCOBACA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21712",
+        "cidade": "AMELIA RODRIGUES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21713",
+        "cidade": "AMERICA DOURADA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21714",
+        "cidade": "ANAGE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21715",
+        "cidade": "ANGUERA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21716",
+        "cidade": "ARACATU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21718",
+        "cidade": "ARGOLO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21719",
+        "cidade": "BOM DESPACHO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21720",
+        "cidade": "BAIXA GRANDE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21722",
+        "cidade": "BARRA ROCHA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21723",
+        "cidade": "BONFIM VALENCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21724",
+        "cidade": "BRAVO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21725",
+        "cidade": "BRUMADO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21726",
+        "cidade": "BUERAREMA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21727",
+        "cidade": "CAMACAM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21728",
+        "cidade": "CAMAMU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21729",
+        "cidade": "CANAVIEIRAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21730",
+        "cidade": "CANDIDO SALES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21733",
+        "cidade": "COARACI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21734",
+        "cidade": "COPA 70 - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21735",
+        "cidade": "CORTE DE PEDRA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21736",
+        "cidade": "COREIA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21737",
+        "cidade": "CRAVEIRO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21738",
+        "cidade": "CRUZ DAS ALMAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21741",
+        "cidade": "ENT. ANGUERA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21743",
+        "cidade": "ENT. BELMONTE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21744",
+        "cidade": "ENT. BONFIM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21747",
+        "cidade": "ENT. BR101/324/FLECHA DE FEIRA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21749",
+        "cidade": "ENT. BRAVO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21750",
+        "cidade": "ENT. CONCEICAO DO ALMEIDA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21751",
+        "cidade": "ENT. CACHA PREGO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21752",
+        "cidade": "ENT. CACHOEIRINHA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21753",
+        "cidade": "ENT. CAFARNAUM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21755",
+        "cidade": "ENT. DE CAMASSANDI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21756",
+        "cidade": "ENT. DE CAPOEIRUCU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21757",
+        "cidade": "ENT. CONCEICAO FEIRA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21758",
+        "cidade": "ENT. CRUZ ALMAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21759",
+        "cidade": "ENT. DOM MACEDO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21760",
+        "cidade": "ENT. GUAIBIM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21761",
+        "cidade": "ENT. IBIRAPITANGA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21762",
+        "cidade": "ENT. ITABAINA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21764",
+        "cidade": "ENT. ITAJUIPE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21765",
+        "cidade": "ENT. ITAPE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21766",
+        "cidade": "ENT. JAGUAQUARA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21767",
+        "cidade": "ENT. JAGUARIPE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21768",
+        "cidade": "ENT. LAJE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21772",
+        "cidade": "ENT. SANTO AMARO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21773",
+        "cidade": "ENT. SANTA CRUZ VITORIA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21774",
+        "cidade": "ENT. SIMOES FILHO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21775",
+        "cidade": "ENT. SAO GONCALO DOS CAMPOS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21776",
+        "cidade": "ENT. SAO GONCALO  - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21778",
+        "cidade": "ENT. SANTA MARIA ETERNA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21779",
+        "cidade": "ENT. SERRA PRETA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21780",
+        "cidade": "ENT. SAO SEBASTIAO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21781",
+        "cidade": "ENT. SALINAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21782",
+        "cidade": "ENT. SANTA INES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21783",
+        "cidade": "PJ. PRIMAVERA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21784",
+        "cidade": "ENT. DE TAPIRAMUTA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21785",
+        "cidade": "ENT. URUCUCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21786",
+        "cidade": "ENT. VALENCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21787",
+        "cidade": "EUNAPOLIS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21788",
+        "cidade": "FAZENDA BRAHMA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21789",
+        "cidade": "FAZENDA SANTA CRUZ - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21790",
+        "cidade": "FAZENDA SANTANA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21791",
+        "cidade": "FEIRA SANTANA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21792",
+        "cidade": "FIRMINO ALVES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21793",
+        "cidade": "FLORESTA AZUL - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21794",
+        "cidade": "GANDU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21797",
+        "cidade": "GOVERNADOR MANGABEIRA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21798",
+        "cidade": "GRACIOSA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21799",
+        "cidade": "GUANAMBI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21800",
+        "cidade": "IBICARAI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21801",
+        "cidade": "IBICUI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21802",
+        "cidade": "IBIRAPITANGA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21803",
+        "cidade": "IGRAPIUNA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21804",
+        "cidade": "IGUAI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21805",
+        "cidade": "ILHEUS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21806",
+        "cidade": "IPIAU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21807",
+        "cidade": "IPIRA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21808",
+        "cidade": "IRECE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21809",
+        "cidade": "PRESIDENTE TANCREDO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21810",
+        "cidade": "ITABATAN - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21811",
+        "cidade": "ITABELA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21812",
+        "cidade": "ITABUNA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21813",
+        "cidade": "ITACARE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21814",
+        "cidade": "ITAIA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21815",
+        "cidade": "ITAGIMIRIM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21816",
+        "cidade": "ITAJUIPE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21817",
+        "cidade": "ITAMARAJU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21818",
+        "cidade": "ITAMARATI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21819",
+        "cidade": "ITAMBE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21820",
+        "cidade": "ITANHEM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21821",
+        "cidade": "ITAPETINGA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21825",
+        "cidade": "ITORORO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21826",
+        "cidade": "ITUBERA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21828",
+        "cidade": "JEQUIE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21830",
+        "cidade": "JOAO DOURADO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21831",
+        "cidade": "LAGOA BORGES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21833",
+        "cidade": "LIVRAMENTO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21834",
+        "cidade": "MANUEL FERRAZ - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21836",
+        "cidade": "MANOEL VITORINO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21837",
+        "cidade": "MEDEIROS NETO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21838",
+        "cidade": "MILAGRES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21839",
+        "cidade": "MOENDA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21840",
+        "cidade": "MONTINHO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21841",
+        "cidade": "MORRO CHAPEU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21842",
+        "cidade": "MUCURI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21844",
+        "cidade": "MUNDO NOVO SUL - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21845",
+        "cidade": "MUNDO NOVO SERTAO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21847",
+        "cidade": "NAZARE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21848",
+        "cidade": "NILO PECANHA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21849",
+        "cidade": "NOVA CANAA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21850",
+        "cidade": "NOVA VICOSA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21851",
+        "cidade": "OLIVENCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21852",
+        "cidade": "OROJO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21853",
+        "cidade": "POSTO SANTO ANTONIO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21854",
+        "cidade": "PARAGUACU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21855",
+        "cidade": "SAO CAETANO SUL - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21856",
+        "cidade": "PARAMIRIM - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21857",
+        "cidade": "PINARE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21858",
+        "cidade": "PIRITIBA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21859",
+        "cidade": "PLANALTO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21860",
+        "cidade": "POCOES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21861",
+        "cidade": "PONTO ASTERIO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21862",
+        "cidade": "PORTO SEGURO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21863",
+        "cidade": "POSTO MATA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21864",
+        "cidade": "POSTO SAO LUIZ - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21865",
+        "cidade": "PRADO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21866",
+        "cidade": "PRATAS/ARATACA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21868",
+        "cidade": "RANCHO ALEGRE - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21869",
+        "cidade": "RIBEIRAO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21870",
+        "cidade": "RIO BRANCO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21871",
+        "cidade": "RIO DO MEIO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21872",
+        "cidade": "RIO DO SUL - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21875",
+        "cidade": "SALVADOR - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21878",
+        "cidade": "SAO JOAO PARAISO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21879",
+        "cidade": "SAO JOSE DA VITORIA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21880",
+        "cidade": "SAPEACU - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21881",
+        "cidade": "DUQUE  DE CAXIAS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21882",
+        "cidade": "SERRA PRETA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21883",
+        "cidade": "SANTA CRUZ VITORIA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21885",
+        "cidade": "NOVA IGUACU - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21886",
+        "cidade": "SAO JOAO MERITI - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21887",
+        "cidade": "SANTO ANTONIO JESUS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21890",
+        "cidade": "TAPEROA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21891",
+        "cidade": "TEIXEIRA DE FREITAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21892",
+        "cidade": "TEIXEIRA PROGRESSO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21893",
+        "cidade": "TEOLANDIA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21894",
+        "cidade": "TRAVESSAO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21895",
+        "cidade": "TREVO POSTO DA MATA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21897",
+        "cidade": "UBAITABA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21898",
+        "cidade": "UBATA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21900",
+        "cidade": "UNA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21901",
+        "cidade": "URUCUCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21902",
+        "cidade": "VALENCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21903",
+        "cidade": "VARGITO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21905",
+        "cidade": "VITORIA DA CONQUISTA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21906",
+        "cidade": "WENCESLAU GUIMARAES - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21907",
+        "cidade": "ACAMPAMENTO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21908",
+        "cidade": "ACIOLI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21909",
+        "cidade": "AFONSO CLAUDIO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21910",
+        "cidade": "AGUA BOA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21911",
+        "cidade": "AGUA LIMPA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21912",
+        "cidade": "AGUIA BRANCA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21913",
+        "cidade": "ALMASA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21914",
+        "cidade": "ALTO RIO NOVO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21916",
+        "cidade": "ARACE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21917",
+        "cidade": "ARACRUZ - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21918",
+        "cidade": "ARAGUAIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21919",
+        "cidade": "ASSOMBRO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21921",
+        "cidade": "BARRA DO RIACHO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21922",
+        "cidade": "BARRA DO SAHY - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21923",
+        "cidade": "BARRA RIO LIBERDADE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21924",
+        "cidade": "BARRA PERDIDA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21925",
+        "cidade": "BAIXO GUANDU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21926",
+        "cidade": "BARBADOS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21927",
+        "cidade": "BARRA SABIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21928",
+        "cidade": "BARRA DE SAO FRANCISCO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21929",
+        "cidade": "BARRA SECA/JAGUARE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21930",
+        "cidade": "BARRA SECA/SAO GABRIEL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21931",
+        "cidade": "BAUNILHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21932",
+        "cidade": "BEBEDOURO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21933",
+        "cidade": "BOA ESPERANCA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21935",
+        "cidade": "BOA VISTA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21936",
+        "cidade": "BRACO DO RIO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21937",
+        "cidade": "BRACO DO SUL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21938",
+        "cidade": "BRASPEROLA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21939",
+        "cidade": "BRAUNA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21940",
+        "cidade": "BREJETUBA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21941",
+        "cidade": "CACHOEIRO ITAPEMIRIM - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21942",
+        "cidade": "CANIVETE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21943",
+        "cidade": "CARAPINA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21944",
+        "cidade": "CAROLINA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21945",
+        "cidade": "CAVALINHOS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21946",
+        "cidade": "COLONIA DO SESC - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21948",
+        "cidade": "COLATINA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21949",
+        "cidade": "CONCEICAO CASTELO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21950",
+        "cidade": "CONCEICAO BARRA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21951",
+        "cidade": "COQUEIRAL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21952",
+        "cidade": "CORREGO DA AREIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21953",
+        "cidade": "CORREGO D AGUA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21956",
+        "cidade": "CORREGO IBIRACEMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21957",
+        "cidade": "CORREGO DA LAMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21958",
+        "cidade": "CORREGO SABIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21961",
+        "cidade": "DIVISA ES/BA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21962",
+        "cidade": "DIVISA ES/MG - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21963",
+        "cidade": "DOMINGOS MARTINS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21964",
+        "cidade": "ECOPORANGA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21965",
+        "cidade": "EMPOSSADO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21966",
+        "cidade": "ENT. DE BOA ESPERANCA (BR101/ES315) - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21967",
+        "cidade": "ENT. BREJETUBA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21968",
+        "cidade": "ENT. MORELO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21969",
+        "cidade": "ENT. DA FARTURA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21970",
+        "cidade": "ENT. GUARAREMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21971",
+        "cidade": "ENT. LAGOA MACUCO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21972",
+        "cidade": "ENT. MUNIZ FREIRE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21973",
+        "cidade": "ENT. MANGUINHOS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21974",
+        "cidade": "ENT. PINGA FOGO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21975",
+        "cidade": "ENTRADA DE PARAJU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21976",
+        "cidade": "ENT. RIO QUARTEL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21977",
+        "cidade": "ENT. RIBEIRAO DE CIMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21978",
+        "cidade": "ENT. SAO G. BAUNILHA/COLATINA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21979",
+        "cidade": "ENT. SANTA MARIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21982",
+        "cidade": "ENT. DA VERMELHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21984",
+        "cidade": "ESCADINHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21985",
+        "cidade": "ESPERA QUE VEM - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21986",
+        "cidade": "FABRICA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21987",
+        "cidade": "FAZENDA CARLOS TELAL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21988",
+        "cidade": "FAZENDA CONCEICAO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21989",
+        "cidade": "FAZENDA COUVRE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21990",
+        "cidade": "FAZENDA DO ESTADO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21991",
+        "cidade": "FAZENDA GUANDU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21993",
+        "cidade": "FAZENDA SAO PEDRO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21994",
+        "cidade": "FRENCHIANI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21996",
+        "cidade": "FUNDAO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21998",
+        "cidade": "GUARANI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "21999",
+        "cidade": "GUARAPARI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22000",
+        "cidade": "GURIRI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22001",
+        "cidade": "HENRIQUE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22002",
+        "cidade": "IBATIBA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22003",
+        "cidade": "IBIRACU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22004",
+        "cidade": "IBIRUCU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22005",
+        "cidade": "ICONHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22006",
+        "cidade": "IGREJINHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22007",
+        "cidade": "INDAIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22009",
+        "cidade": "IRUPI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22011",
+        "cidade": "ITAPINA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22012",
+        "cidade": "ITAUNINHAS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22013",
+        "cidade": "IUNA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22015",
+        "cidade": "JACARAIPE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22016",
+        "cidade": "JACUPEMBA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22017",
+        "cidade": "JAGUARE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22018",
+        "cidade": "JARDIM LIMOEIRO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22019",
+        "cidade": "JOAO NEIVA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22020",
+        "cidade": "JOAO PEREIRA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22021",
+        "cidade": "JOEIRANA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22022",
+        "cidade": "JUNDIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22023",
+        "cidade": "KM 13 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22025",
+        "cidade": "KM 23 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22026",
+        "cidade": "KM 28 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22027",
+        "cidade": "KM 35 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22028",
+        "cidade": "KM 41 NESTOR GOMES - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22029",
+        "cidade": "KM 47 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22030",
+        "cidade": "LAJINHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22031",
+        "cidade": "LARANJA TERRA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22032",
+        "cidade": "LINHARES - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22033",
+        "cidade": "MANTENOPOLIS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22035",
+        "cidade": "MARCHEZINI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22036",
+        "cidade": "MARECHAL FLORIANO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22037",
+        "cidade": "MARILANDIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22038",
+        "cidade": "MASCARENHAS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22039",
+        "cidade": "MATILDE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22040",
+        "cidade": "MONTANHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22041",
+        "cidade": "MUCURICI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22042",
+        "cidade": "MUNIZ FREIRE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22043",
+        "cidade": "NOSSA SENHORA AJUDA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22044",
+        "cidade": "NESTOR GOMES - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22045",
+        "cidade": "NOVA ALMEIDA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22046",
+        "cidade": "NOVA LIMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22047",
+        "cidade": "NOVA VENECIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22048",
+        "cidade": "PATRIMONIO DA LAGOA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22049",
+        "cidade": "PONTE DO JUCU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22050",
+        "cidade": "PAIXAO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22051",
+        "cidade": "PALHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22052",
+        "cidade": "PANCAS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22053",
+        "cidade": "PARAISO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22054",
+        "cidade": "PARAJU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22055",
+        "cidade": "PAULISTA SAO MATEUS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22056",
+        "cidade": "PEDRO CANARIO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22057",
+        "cidade": "PENDANGA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22058",
+        "cidade": "PEQUIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22059",
+        "cidade": "PIACU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22060",
+        "cidade": "PINHEIROS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22063",
+        "cidade": "PONTE BAIXA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22065",
+        "cidade": "PONTO ALTO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22066",
+        "cidade": "PONTO BELO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22067",
+        "cidade": "POSTO FLORESTA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22068",
+        "cidade": "POSTO IPIRANGA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22069",
+        "cidade": "POSTO JAGUARE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22070",
+        "cidade": "POUSO ALTO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22072",
+        "cidade": "QUINZE OUTUBRO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22073",
+        "cidade": "RANCHO FUNDO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22074",
+        "cidade": "RETIRO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22075",
+        "cidade": "RIBEIRAO DO MEIO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22076",
+        "cidade": "RIO DO SUL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22077",
+        "cidade": "RIO FUNDO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22078",
+        "cidade": "RIO NOVO SUL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22079",
+        "cidade": "RIO PRETO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22080",
+        "cidade": "SANTANA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22081",
+        "cidade": "SAO BENTO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22082",
+        "cidade": "SAO DOMINGOS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22083",
+        "cidade": "SAO FRANCISCO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22085",
+        "cidade": "SAO GABRIEL PALHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22087",
+        "cidade": "SAO JOAO VICOSA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22088",
+        "cidade": "SAO JOSE DE IRIRITIMIRIM - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22089",
+        "cidade": "SAO LUIZ - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22090",
+        "cidade": "SAO MATEUS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22091",
+        "cidade": "SAO ROQUE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22092",
+        "cidade": "SAYONARA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22093",
+        "cidade": "SERRA(SEDE) - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22095",
+        "cidade": "SOORETAMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22096",
+        "cidade": "SANTA ANACONDA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22097",
+        "cidade": "SANTA CRUZ - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22098",
+        "cidade": "SANTA ISABEL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22101",
+        "cidade": "SANTA MARIA DO ARAGUAIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22102",
+        "cidade": "SANTA TEREZINHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22103",
+        "cidade": "SANTO ANDRE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22105",
+        "cidade": "TAQUARAL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22106",
+        "cidade": "TARDIM - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22107",
+        "cidade": "TIMBUI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22108",
+        "cidade": "TRES BARRAS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22110",
+        "cidade": "TREVO ACIOLI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22111",
+        "cidade": "TREVO BR262/101 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22113",
+        "cidade": "TREVO IUNA/BR262 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22114",
+        "cidade": "TREVO DOMINGOS MARTINS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22115",
+        "cidade": "TREVO GUARANA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22116",
+        "cidade": "TREVO JACUPEMBA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22117",
+        "cidade": "TREVO SOORETAMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22118",
+        "cidade": "VENDA NOVA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22119",
+        "cidade": "VIANA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22120",
+        "cidade": "VICTOR HUGO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22121",
+        "cidade": "VILA RIACHO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22122",
+        "cidade": "VILA PAULISTA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22125",
+        "cidade": "VILA VELHA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22126",
+        "cidade": "VILANTE - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22127",
+        "cidade": "VINHATICO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22130",
+        "cidade": "VITORIA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22131",
+        "cidade": "AIMORES - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22132",
+        "cidade": "ALMENARA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22133",
+        "cidade": "AREIA BRANCA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22134",
+        "cidade": "ATAIDE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22135",
+        "cidade": "BARRA CUIETE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22136",
+        "cidade": "BELO HORIZONTE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22137",
+        "cidade": "BICAS - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22138",
+        "cidade": "CAPIM - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22139",
+        "cidade": "CARANGOLA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22140",
+        "cidade": "CARLOS CHAGAS - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22141",
+        "cidade": "CONSELHEIRO PENA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22142",
+        "cidade": "CORONEL FABRICIANO - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22144",
+        "cidade": "GALILEIA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22145",
+        "cidade": "GOIABEIRA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22146",
+        "cidade": "GOVERNADOR VALADARES - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22147",
+        "cidade": "GUARANI - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22148",
+        "cidade": "INDEPENDENCIA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22150",
+        "cidade": "ITAOBIM - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22151",
+        "cidade": "JEQUITINHONHA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22152",
+        "cidade": "JOAO MONLEVADE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22153",
+        "cidade": "JUIZ DE FORA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22154",
+        "cidade": "LAJINHA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22155",
+        "cidade": "LARANJEIRA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22156",
+        "cidade": "MARTINS SOARES - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22157",
+        "cidade": "MANHUACU - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22158",
+        "cidade": "MANHUMIRIM - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22159",
+        "cidade": "MANTENA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22160",
+        "cidade": "MATIAS BARBOSA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22161",
+        "cidade": "MEDINA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22162",
+        "cidade": "NANUQUE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22164",
+        "cidade": "NOVA ITUETA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22165",
+        "cidade": "PONTE RIO SUASSUI - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22166",
+        "cidade": "PADRE PARAISO - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22167",
+        "cidade": "PEDRA AZUL - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22168",
+        "cidade": "PENHA NORTE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22169",
+        "cidade": "PIRAUBA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22170",
+        "cidade": "PONTE NOVA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22171",
+        "cidade": "RAUL SOARES - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22172",
+        "cidade": "RESPLENDOR - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22173",
+        "cidade": "RIO CASCA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22174",
+        "cidade": "RIO EME - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22175",
+        "cidade": "RIO NOVO - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22176",
+        "cidade": "RIO POMBA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22177",
+        "cidade": "SAO JOAO NEPOMUCENO - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22178",
+        "cidade": "SAO VITOR - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22179",
+        "cidade": "SERRA AIMORES - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22180",
+        "cidade": "SANTA CRUZ - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22181",
+        "cidade": "ENT. PEDRA AZUL - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22182",
+        "cidade": "TEOFILO OTONI - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22184",
+        "cidade": "UBA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22185",
+        "cidade": "VICOSA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22186",
+        "cidade": "VISCONDE RIO BRANCO - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22187",
+        "cidade": "ALBERTO TORRES - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22188",
+        "cidade": "AREAL - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22189",
+        "cidade": "BARRA PIRAI - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22190",
+        "cidade": "BARRA MANSA - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22191",
+        "cidade": "BONSUCESSO - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22192",
+        "cidade": "CAMPOS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22193",
+        "cidade": "ITAIPAVA - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22194",
+        "cidade": "MACAE - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22195",
+        "cidade": "MAGE - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22196",
+        "cidade": "NITEROI - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22197",
+        "cidade": "PARAIBA SUL - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22198",
+        "cidade": "PEDRO RIO - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22199",
+        "cidade": "PETROPOLIS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22200",
+        "cidade": "RESENDE - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22201",
+        "cidade": "RIO DE JANEIRO - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22202",
+        "cidade": "TERESOPOLIS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22203",
+        "cidade": "TRES RIOS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22205",
+        "cidade": "VASSOURAS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22206",
+        "cidade": "VOLTA REDONDA - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22207",
+        "cidade": "WERNECK - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22208",
+        "cidade": "APARECIDA - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22209",
+        "cidade": "CAMPINAS - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22210",
+        "cidade": "SAO JOSE CAMPOS - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22211",
+        "cidade": "OSASCO - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22212",
+        "cidade": "SAO BERNARDO CAMPO - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22213",
+        "cidade": "SANTO ANDRE - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22214",
+        "cidade": "SAO PAULO - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22215",
+        "cidade": "TAUBATE - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22228",
+        "cidade": "SANTO ANTONIO/TEIXEIRA DE FREITAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22231",
+        "cidade": "ATALEIA - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22232",
+        "cidade": "ALTO GUANDU - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22272",
+        "cidade": "MONTE SENIR - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22311",
+        "cidade": "TREVO CRICIUMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22312",
+        "cidade": "CRICIUMA - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22319",
+        "cidade": "TREVO BOA ESPERANCA (ES130/ES315) - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22320",
+        "cidade": "ENT. SANTA CRUZ BR 262 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22322",
+        "cidade": "ITAPORANGA/CRISTINAPOLIS - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22323",
+        "cidade": "ITAPORANGA/ESTANCIA - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22324",
+        "cidade": "ITAPORANGA/UMBAUBA - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22325",
+        "cidade": "ALAGOINHAS/ESPLANADA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22326",
+        "cidade": "ALAGOINHAS/ENTRE RIOS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22330",
+        "cidade": "MACEIO - AL",
+        "uf": "AL",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22331",
+        "cidade": "IGREJA NOVA - AL",
+        "uf": "AL",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22332",
+        "cidade": "PENEDO - AL",
+        "uf": "AL",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22334",
+        "cidade": "DIVISA ALEGRE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22336",
+        "cidade": "ALAGOINHAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22339",
+        "cidade": "CATUJI - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22344",
+        "cidade": "ENT. CARMOPOLIS - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22347",
+        "cidade": "ITAPORANGA - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22349",
+        "cidade": "ARACAJU - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22350",
+        "cidade": "MARUIM - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22351",
+        "cidade": "MURIBECA - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22352",
+        "cidade": "PROPRIA - SE",
+        "uf": "SE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22355",
+        "cidade": "MATA VERDE - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22356",
+        "cidade": "DIVISOPOLIS - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22360",
+        "cidade": "DARIO MEIRA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22389",
+        "cidade": "PEDAGIO DE SAO MATEUS P2 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22390",
+        "cidade": "PEDAGIO DE  ARACRUZ P3 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22391",
+        "cidade": "PEDAGIO DE SERRA P4 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22492",
+        "cidade": "BARRA DO CHOCA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22495",
+        "cidade": "TREVO BR262/RIO FUNDO - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22500",
+        "cidade": "SAO GABRIEL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22501",
+        "cidade": "CAMACARI - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22510",
+        "cidade": "CAMPANARIO - MG",
+        "uf": "MG",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22587",
+        "cidade": "TREVO BR101/259 - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22627",
+        "cidade": "TREVO IRUPI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22648",
+        "cidade": "PETROLINA - PE",
+        "uf": "PE",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22649",
+        "cidade": "SALVADOR/ESPLANADA - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22650",
+        "cidade": "SALVADOR/ENTRE RIOS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "22947",
+        "cidade": "SAFRA/CACHOEIRO ITAP - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "23007",
+        "cidade": "ENT. SANTO ESTEVAO - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "23008",
+        "cidade": "KM 100 - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "23467",
+        "cidade": "NILOPOLIS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "23747",
+        "cidade": "PEDRA AZUL - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "23828",
+        "cidade": "RIO DE JANEIRO/B. TIJUCA - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "23947",
+        "cidade": "BARAO DE ANGRA - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24027",
+        "cidade": "GUARULHOS - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24067",
+        "cidade": "RIO DE JANEIRO/CAMPO GRANDE - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24087",
+        "cidade": "ITAUNAS - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24367",
+        "cidade": "VITORIA/JARDIM CAMBURI - ES",
+        "uf": "ES",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24587",
+        "cidade": "SAO PAULO/BARRA FUNDA - SP",
+        "uf": "SP",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24667",
+        "cidade": "LAURO DE FREITAS - BA",
+        "uf": "BA",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24807",
+        "cidade": "ARRAIAL DO CABO - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24808",
+        "cidade": "ARMACAO DOS BUZIOS - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    },
+    {
+        "id": "24809",
+        "cidade": "CABO FRIO - RJ",
+        "uf": "RJ",
+        "eata": null,
+        "ibge": null
+    }
+]
