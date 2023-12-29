@@ -45,6 +45,6 @@ setupSelect(origem)
 setupSelect(destino)
 
 chamar.addEventListener('click', () => {
-  let ut = new SpeechSynthesisUtterance(`teste`);
+  let ut = new SpeechSynthesisUtterance(`Atenção passageiros `);
   window.speechSynthesis.speak(ut)
 })
